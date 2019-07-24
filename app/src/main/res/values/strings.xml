@@ -2,4 +2,11 @@
     <string name="app_name">Hello World</string>
     <string name="edit_message">Enter a message</string>
     <string name="button_send">Send</string>
+    <string name="button_select">Select</string>
+    <string name="button_is_readable">isReadable</string>
+    <string name="button_is_writable">isWritable</string>
+    <string name="app_name_with_index">PdfRendererBasic (%1$d/%2$d)</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
